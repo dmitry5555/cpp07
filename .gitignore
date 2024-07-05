@@ -31,5 +31,5 @@
 *.out
 *.app
 
+# VsCode
 .vscode/
-.Ds_Store
