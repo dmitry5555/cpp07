@@ -1,19 +1,5 @@
-#include "Whatever.hpp"
+#include "whatever.hpp"
 
-void convert(std::string input) {
-	try {
-		
-	}
-	catch (std::exception &e) {
-		std::cout << "char: impossible" << std::endl;
-	}
-}
-
-void swap(int &a, int &b) {
-	int c = a;
-	a = b;
-	b = c;
-}
 
 int main(int argc, char **argv) {
 	int a = 1;
